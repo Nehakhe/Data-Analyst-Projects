@@ -31,3 +31,7 @@ This project is an interactive Sales Performance Dashboard built using Power BI.
 - Data Visualization
 - Dashboard Design
 - Business Reporting
+
+## 📷 Dashboard Preview
+
+![Sales Dashboard](Sales_Dashboard.png)
