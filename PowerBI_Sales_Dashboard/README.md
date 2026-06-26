@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (Power BI)
 
 ## Project Overview
-This project is an interactive Sales Performance Dashboard built using Power BI.
+This project is an interactive Sales Performance Dashboard developed in Power BI using an Excel dataset. The dashboard helps analyze sales performance through KPIs, charts, and interactive filters.
 
 ## Tools Used
 - Power BI
